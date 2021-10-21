@@ -17,4 +17,4 @@ py -m pip install pygame
 py game.py
 ```
 
-![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/115.png)
+![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/114.png)
